@@ -8,7 +8,7 @@ The Dirty Cafe Sales dataset contains 10,000 rows of data representing sales tra
 Cafe Sales: the dataset used is the dirty_cafe_sales.csv file, containing detailed information on each sales transaction in a Cafe.
 
 ### Tools
--Python
+- Python
 
 ### Data Cleaning Process
 1. Importing libraries
