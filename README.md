@@ -4,13 +4,21 @@
 ---
 The Dirty Cafe Sales dataset contains 10,000 rows of data representing sales transactions in a cafe. This dataset  is "dirty", with missing values, inconsistent data, and errors for data cleaning and exploratory data analysis (EDA). The goal is to clean and prepare it for analysis.”
 
+## Table of Contents
+* [Data Sources](#data-sources)
+* [Tools](#tools)
+* [Data Cleaning Process](#data-cleaning-processS)
+* [Data Cleaning Summary](#data-cleaning-summary)
+* [Limitation](#limitations)
+* [Conclusion](#conclusion)
+
 ### Data Sources
 ---
 Cafe Sales: the dataset used is the dirty_cafe_sales.csv file, containing detailed information on each sales transaction in a Cafe.
 
 ### Tools
 ---
-- Python
+- Python(pandas, numpy)
   - [Download here](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
 
 ### Data Cleaning Process
