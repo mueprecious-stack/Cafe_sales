@@ -23,7 +23,7 @@ Cafe Sales: the dataset used is the dirty_cafe_sales.csv file, containing detail
 6. Fill missing rows in the Item column by mapping price Per Unit
 7. Fill missing values in categorical columns 'Payment Method' and 'Location' by random sampling
 8. Interpolate missing date values
-9. Creating new date features and formating data types
+9. Feature Engineering on date 
 10. Drop rows with missing values, and duplicated values
 
 
