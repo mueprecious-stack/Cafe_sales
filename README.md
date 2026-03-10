@@ -9,6 +9,7 @@ Cafe Sales: the dataset used is the dirty_cafe_sales.csv file, containing detail
 
 ### Tools
 - Python
+- [Download here](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
 
 ### Data Cleaning Process
 1. Importing libraries
