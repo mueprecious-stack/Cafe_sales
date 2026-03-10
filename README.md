@@ -9,7 +9,7 @@ The Dirty Cafe Sales dataset contains 10,000 rows of data representing sales tra
 * [Tools](#tools)
 * [Data Cleaning Process](#data-cleaning-processS)
 * [Data Cleaning Summary](#data-cleaning-summary)
-* [Limitation](#limitations)
+* [Limitations](#limitations)
 * [Conclusion](#conclusion)
 
 ### Data Sources
