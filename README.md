@@ -20,7 +20,7 @@ Cafe Sales: the dataset used is the dirty_cafe_sales.csv file, containing detail
 3. Convert all invalid entries in the dataset to null values
 4. Change the data type of the numerical columns to float in order to perform mathematical calculations
 5. Fill missing values in numerical columns using the formula: Total Spent = Quantity * Price Per Unit
-6. Fill missing rows in the Item column by mapping price Per Unit
+6. Fill missing items using the 'Price Per Unit' through mapping
 7. Fill missing values in categorical columns 'Payment Method' and 'Location' by random sampling
 8. Interpolate missing date values
 9. Feature Engineering on date 
