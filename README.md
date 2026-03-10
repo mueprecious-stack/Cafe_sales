@@ -26,7 +26,6 @@ Cafe Sales: the dataset used is the dirty_cafe_sales.csv file, containing detail
 9. Feature Engineering on date 
 10. Drop rows with missing values, and duplicated values
 
-
 ### Data Cleaning summary
 ---
 1. Handling missing data
@@ -34,6 +33,10 @@ Cafe Sales: the dataset used is the dirty_cafe_sales.csv file, containing detail
 3. Feature Engineering
 4. Final data inspection
 
+### Limitations
+---
+Over 40% of rows in the 'Payment Method' and 'Location' fields had to be randomly sampled, fortunately, these fields are of little importance in analysis because meaningful business insights can still be found without them.
+
 ### Conclusion
 ---
-A remarkably small percentage of rows (0.26) was removed from 10,000 rows of the dataset, and will not affect analysis findings. The data is clean and ready for further analysis.
+A remarkably small percentage of rows (0.26) was removed from 10,000 rows of the dataset, and will not affect analysis findings. The data is clean and ready for further analysis. I will continue to explore the provided dataset and perform further analysis in a forthcoming notebook.
