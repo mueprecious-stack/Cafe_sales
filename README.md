@@ -8,7 +8,7 @@ The Dirty Cafe Sales dataset contains 10,000 rows of data representing sales tra
 * [Data Sources](#data-sources)
 * [Tools](#tools)
 * [Data Cleaning Process](#data-cleaning-processS)
-* [Data Cleaning Summary](#data-cleaning-summary)
+* [Summary](#data-cleaning-summary)
 * [Limitations](#limitations)
 * [Conclusion](#conclusion)
 
@@ -34,7 +34,7 @@ Cafe Sales: the dataset used is the dirty_cafe_sales.csv file, containing detail
 9. Feature Engineering on date 
 10. Drop rows with missing values, and duplicated values
 
-### Data Cleaning summary
+### Summary
 ---
 1. Handling missing data
 2. Checking duplicated rows for removal
