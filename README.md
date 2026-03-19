@@ -32,13 +32,13 @@ Cafe Sales: the dataset used is the dirty_cafe_sales.csv file, containing detail
 
 ### Exploratory Data Analysis
 ---
-1. Imported relevant libraries and loaded the cleaned dataset
-2. Analyzed monthly sales trends using a line chart
-3. Assessed total sales per item
-4. Plotted a heatmap to evaluate correlations between numerical variables
-5. Used a pie chart to examine each item's contribution to total revenue
-6. Identified customer-preferred order locations
-
+EDA involved answering questions about the data set such as:
+  1. How sales trended throughout the year.
+  2. Which items generated the highest sales and the reasons behind their performance.
+  3. The relationship between quantity sold, price and total amount spent.
+  4. Which items contributed most to overall revenue.
+  5. Which locations were most prefered by customers. 
+     
 ### Business insights
 ---
 1. Sales peak in June and decline in February and November.
@@ -61,4 +61,4 @@ Over 40% of rows in the 'Payment Method' and 'Location' fields had to be randoml
 
 ### Conclusion
 ---
-A remarkably small percentage of rows (0.26) was removed from 10,000 rows of the dataset, and will not affect analysis findings. The data is clean and ready for further analysis. 
+A remarkably small percentage of rows (0.26) was removed from 10,000 rows of the dataset, and does not affect analysis findings. The data is clean and ready for further analysis. 
