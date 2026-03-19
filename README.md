@@ -1,4 +1,4 @@
-# Exploratory Data Analysis
+# Data Cleaning and Exploratory Data Analysis
 ---
 ### Project Overview
 ---
@@ -28,13 +28,15 @@ Cafe Sales: the dataset used is the dirty_cafe_sales.csv file, containing detail
 3. Feature Engineering
 4. Final data inspection
 
-### Analysis and Visualizations
+### Exploratory Data Analysis
+---
 1.Importation of libraries and loading of cleaned dataset
 2. Tracking monthly sales trend using a line chart
 3. Assesed total sales per Item
 4. plotted a heatmap to check correlation between numbers
 5. Using a pie chart to assess the contribution of each item towards total revenue
 6. Identitified order location prefered by customers
+
 ### Limitations
 ---
 Over 40% of rows in the 'Payment Method' and 'Location' fields had to be randomly sampled, fortunately, these fields are of little importance in analysis because meaningful business insights can still be found without them.
