@@ -66,4 +66,4 @@ Over 40% of rows in the 'Payment Method' and 'Location' fields had to be randoml
 
 ### Conclusion
 ---
-A remarkably small percentage of rows (0.26) was removed from 10,000 rows of the dataset, and does not affect analysis findings. The data is clean and ready for further analysis. The dataset has been analysed with findings and business insights made.
+Only a very small fraction of rows (0.26%) was removed from the dataset, which does not impact the analysis results. The data is clean and ready for further analysis, and actionable business insights and recommendations have been derived.
