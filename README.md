@@ -1,4 +1,4 @@
-# Data Cleaning Project
+# Exploratory Data Analysis
 ---
 ### Project Overview
 ---
@@ -23,24 +23,18 @@ Cafe Sales: the dataset used is the dirty_cafe_sales.csv file, containing detail
 
 ### Data Cleaning Process
 ---
-1. Importing libraries
-2. Data loading and initial inspection
-3. Convert all invalid entries in the dataset to null values
-4. Change the data type of the numerical columns to float in order to perform mathematical calculations
-5. Calculate missing values in numerical columns using the formula: Total Spent = Quantity * Price Per Unit
-6. Calculate missing items using the 'Price Per Unit' through mapping
-7. Fill missing values in categorical columns 'Payment Method' and 'Location' by random sampling
-8. Interpolate missing date values
-9. Feature Engineering on date 
-10. Drop rows with missing values, and duplicated values
-
-### Summary
----
 1. Handling missing data
 2. Checking duplicated rows for removal
 3. Feature Engineering
 4. Final data inspection
 
+### Analysis and Visualizations
+1.Importation of libraries and loading of cleaned dataset
+2. Tracking monthly sales trend using a line chart
+3. Assesed total sales per Item
+4. plotted a heatmap to check correlation between numbers
+5. Using a pie chart to assess the contribution of each item towards total revenue
+6. Identitified order location prefered by customers
 ### Limitations
 ---
 Over 40% of rows in the 'Payment Method' and 'Location' fields had to be randomly sampled, fortunately, these fields are of little importance in analysis because meaningful business insights can still be found without them.
