@@ -32,7 +32,7 @@ Cafe Sales: the dataset used is the dirty_cafe_sales.csv file, containing detail
 
 ### Exploratory Data Analysis
 ---
-EDA involved answering questions about the data set such as:
+The exploratory data analysis(EDA) addressed key business questions including:
   1. How sales trended throughout the year.
   2. Which items generated the highest sales and the reasons behind their performance.
   3. The relationship between quantity sold, price and total amount spent.
