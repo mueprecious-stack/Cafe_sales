@@ -4,7 +4,7 @@
 ---
 The Dirty Cafe Sales dataset contains 10,000 rows of data representing sales transactions in a cafe. This dataset  is "dirty", with missing values, inconsistent data, and errors for data cleaning and exploratory data analysis (EDA). The goal is to clean and prepare it for analysis.”
 
-![Chart](Correlation Heatmap.PNG)
+### Correlation Heatmap
 
 <img width="520" height="423" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/ee114eb8-a1fb-43af-929a-c029fa0796e6" />
 
