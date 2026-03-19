@@ -4,14 +4,15 @@
 ---
 The Dirty Cafe Sales dataset contains 10,000 rows of data representing sales transactions in a cafe. This dataset  is "dirty", with missing values, inconsistent data, and errors for data cleaning and exploratory data analysis (EDA). The goal is to clean and prepare it for analysis.”
 
-[Chart](Correlation Heatmap)
+![Chart](Correlation Heatmap.PNG)
 
+<img width="520" height="423" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/ee114eb8-a1fb-43af-929a-c029fa0796e6" />
 
 
 ## Table of Contents
 * [Data Sources](#data-sources)
 * [Tools](#tools)
-* [Data Cleaning Process](#data-cleaning-process)
+* [Data CleaningPreparation](#data-cleaning/preparation)
 * [Exploratory Data Analysis](#exploratory-data-analysis)
 * [Business Insights](#business-insights)
 * [Recommendations](#recommendations)
@@ -65,4 +66,4 @@ Over 40% of rows in the 'Payment Method' and 'Location' fields had to be randoml
 
 ### Conclusion
 ---
-A remarkably small percentage of rows (0.26) was removed from 10,000 rows of the dataset, and does not affect analysis findings. The data is clean and ready for further analysis. 
+A remarkably small percentage of rows (0.26) was removed from 10,000 rows of the dataset, and does not affect analysis findings. The data is clean and ready for further analysis. The dataset has been analysed with findings and business insights made.
