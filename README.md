@@ -4,6 +4,9 @@
 ---
 The Dirty Cafe Sales dataset contains 10,000 rows of data representing sales transactions in a cafe. This dataset  is "dirty", with missing values, inconsistent data, and errors for data cleaning and exploratory data analysis (EDA). The goal is to clean and prepare it for analysis.”
 
+[Dashboard](correlation heatmap)
+
+
 ## Table of Contents
 * [Data Sources](#data-sources)
 * [Tools](#tools)
