@@ -9,7 +9,7 @@ The Dirty Cafe Sales dataset contains 10,000 rows of data representing sales tra
 <img width="520" height="423" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/ee114eb8-a1fb-43af-929a-c029fa0796e6" />
 
 
-## Table of Contents
+## Table of Content
 * [Data Sources](#data-sources)
 * [Tools](#tools)
 * [Data Cleaning and Preparation](#data-cleaning-and-preparation)
